@@ -1,0 +1,10 @@
+fastapi
+motor
+uvicorn
+datetime
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+typing==3.7.4.3
+fastapi-jwt-auth
+fastapi-auth0
